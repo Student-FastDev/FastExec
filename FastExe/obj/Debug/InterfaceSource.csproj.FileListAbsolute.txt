@@ -1,0 +1,25 @@
+C:\Users\DareQPlays\source\repos\InterfaceSource\InterfaceSource\bin\Debug\InterfaceSource.exe.config
+C:\Users\DareQPlays\source\repos\InterfaceSource\InterfaceSource\bin\Debug\InterfaceSource.exe
+C:\Users\DareQPlays\source\repos\InterfaceSource\InterfaceSource\bin\Debug\InterfaceSource.pdb
+C:\Users\DareQPlays\source\repos\InterfaceSource\InterfaceSource\bin\Debug\Guna.UI2.dll
+C:\Users\DareQPlays\source\repos\InterfaceSource\InterfaceSource\obj\Debug\InterfaceSource.Example.resources
+C:\Users\DareQPlays\source\repos\InterfaceSource\InterfaceSource\obj\Debug\InterfaceSource.Properties.Resources.resources
+C:\Users\DareQPlays\source\repos\InterfaceSource\InterfaceSource\obj\Debug\InterfaceSource.csproj.GenerateResource.cache
+C:\Users\DareQPlays\source\repos\InterfaceSource\InterfaceSource\obj\Debug\InterfaceSource.csproj.CoreCompileInputs.cache
+C:\Users\DareQPlays\source\repos\InterfaceSource\InterfaceSource\obj\Debug\InterfaceSource.csproj.CopyComplete
+C:\Users\DareQPlays\source\repos\InterfaceSource\InterfaceSource\obj\Debug\InterfaceSource.exe
+C:\Users\DareQPlays\source\repos\InterfaceSource\InterfaceSource\obj\Debug\InterfaceSource.pdb
+C:\Users\fastd\Desktop\Interface Develop Package by DareQPlays\InterfaceSource\InterfaceSource\bin\Debug\InterfaceSource.exe.config
+C:\Users\fastd\Desktop\Interface Develop Package by DareQPlays\InterfaceSource\InterfaceSource\bin\Debug\InterfaceSource.exe
+C:\Users\fastd\Desktop\Interface Develop Package by DareQPlays\InterfaceSource\InterfaceSource\bin\Debug\InterfaceSource.pdb
+C:\Users\fastd\Desktop\Interface Develop Package by DareQPlays\InterfaceSource\InterfaceSource\bin\Debug\Guna.UI2.dll
+C:\Users\fastd\Desktop\Interface Develop Package by DareQPlays\InterfaceSource\InterfaceSource\obj\Debug\InterfaceSource.csproj.AssemblyReference.cache
+C:\Users\fastd\Desktop\Interface Develop Package by DareQPlays\InterfaceSource\InterfaceSource\obj\Debug\InterfaceSource.csproj.SuggestedBindingRedirects.cache
+C:\Users\fastd\Desktop\Interface Develop Package by DareQPlays\InterfaceSource\InterfaceSource\obj\Debug\InterfaceSource.Example.resources
+C:\Users\fastd\Desktop\Interface Develop Package by DareQPlays\InterfaceSource\InterfaceSource\obj\Debug\InterfaceSource.Properties.Resources.resources
+C:\Users\fastd\Desktop\Interface Develop Package by DareQPlays\InterfaceSource\InterfaceSource\obj\Debug\InterfaceSource.csproj.GenerateResource.cache
+C:\Users\fastd\Desktop\Interface Develop Package by DareQPlays\InterfaceSource\InterfaceSource\obj\Debug\InterfaceSource.csproj.CoreCompileInputs.cache
+C:\Users\fastd\Desktop\Interface Develop Package by DareQPlays\InterfaceSource\InterfaceSource\obj\Debug\InterfaceSource.csproj.CopyComplete
+C:\Users\fastd\Desktop\Interface Develop Package by DareQPlays\InterfaceSource\InterfaceSource\obj\Debug\InterfaceSource.exe
+C:\Users\fastd\Desktop\Interface Develop Package by DareQPlays\InterfaceSource\InterfaceSource\obj\Debug\InterfaceSource.pdb
+C:\Users\fastd\Desktop\Interface Develop Package by DareQPlays\InterfaceSource\InterfaceSource\bin\Debug\WeAreDevs_API.dll
