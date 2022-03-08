@@ -9,6 +9,3 @@
 ### My Discord : JestemSzybki#1949
 
 #### ![image](https://kurwa.club/u/hgnAP.png)
-
-
-## Credit [ MasterDev ]
