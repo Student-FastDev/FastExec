@@ -8,4 +8,4 @@
 
 ### My Discord : JestemSzybki#1949
 
-#### ![image](https://kurwa.club/u/hgnAP.png)
+#### ![image](https://cdn.discordapp.com/attachments/893584916514738187/950851881775824906/Screenshot_1.png)
